@@ -53,7 +53,7 @@ Tʜɪs Bᴏᴛ Aʟꜱᴏ Sᴜᴘᴘᴏʀᴛs Cᴜsᴛᴏᴍ Tʜᴜᴍʙɴᴀɪʟ
 • ᴍᴏᴠɪᴇs : <a href=https://t.me/World_Fastest_Bots>ᴍᴏᴠɪᴇ</a>
 • sᴇʀɪᴇs : <a href=https://t.me/World_Fastest_Bots>sᴇʀɪᴇs</a>
 • ᴀɴɪᴍᴇ: <a href=https://t.me/World_Fastest_Bots>ᴀɴɪᴍᴇ</a>
-• ᴄʜᴀᴛ ɢʀᴏᴜᴘ: <a href=https://t.me/World_Fastest_Bots>gtoup</a>
+• ᴄʜᴀᴛ ɢʀᴏᴜᴘ: <a href=https://t.me/World_Fastest_Bots>group</a>
 • ᴍʏ ꜱᴇʀᴠᴇʀ : <a href=https://World_Fastest_Bots>ᴠᴘs</a>
 ╰───────────────⍟ """
 
@@ -86,7 +86,7 @@ Exᴀᴍᴩʟᴇ:- <code> /set_caption 📕 Fɪʟᴇ Nᴀᴍᴇ: {filename}
 
 ☞ Fᴏʀ Exᴀᴍᴘʟᴇ:-
 
-◦ <code> -map 0 -c:s copy -c:a copy -c:v copy -metadata title="Powered By:- @team_netflix" -metadata author="@Codeflix_bots" -metadata:s:s title="Subtitled By :- @Team_netflix" -metadata:s:a title="By :- @team_netflix" -metadata:s:v title="By:- @Codeflix_bots" </code>
+◦ <code> -map 0 -c:s copy -c:a copy -c:v copy -metadata title="Powered By:- @World_Fastest_Bots" -metadata author="@World_Fastest_Bots" -metadata:s:s title="Subtitled By :- @World_Fastest_Bots" -metadata:s:a title="By :- @World_Fastest_Bots" -metadata:s:v title="By:- @World_Fastest_Bots" </code>
 
 📥 Fᴏʀ Hᴇʟᴘ Cᴏɴᴛ. @World_Fastest_Bots
 """
